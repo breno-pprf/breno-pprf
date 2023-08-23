@@ -2,7 +2,7 @@
 #### Aqui você encontra alguns projetos acadêmicos ou profissionais que desenvolvi.
 
 - 🔭 Atualmente trabalho como analista de dados e presto serviços de consultoria
-- 🌱 Recentemente tenho estudado frontend voltado para consumo de dados e relatórios
+- 🌱 Recentemente tenho estudado backend voltado para criação de api, servidores e consumo de dados
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: nerd de carteirinha, gosto de games e automação de coisas inúteis (ou não)
 
